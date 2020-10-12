@@ -7,5 +7,9 @@ public class Sample1Test {
 	public void sample1Test() {
 		System.out.println("Run in jenkins");
 	}
+	@Test
+	public void sampleTest() {
+		System.out.println("Run in junkins 2");
+	}
 
 }
